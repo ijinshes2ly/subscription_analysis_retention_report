@@ -6,5 +6,5 @@
 - **기술 스택:** Python, Pandas, nump, Seaborn, Matplotlib,scipy, LabelEncoder, MinMaxScaler, StandardScaler
 - **주요 결과:** 개인 맞춤형 서비스 제공, 서비스 품질 개선 및 알고리즘 정교화, 전환율 높은 광고 채널에 예산 투자로 고객 유지율 상승.
 
-📎 **[📄 보고서 다운로드 (PDF)](./구독 이탈 원인 분석 및 유지 전략 보고서.pdf)**  
+📎 **[📄 보고서 다운로드 (PDF)](./구독이탈_원인분석_및_리텐션전략_보고서.pdf)**  
 📎 **[📊 데이터 분석 (Jupyter Notebook)](subscription_retention_KPI.ipynb)**  
